@@ -1,0 +1,11 @@
+# Basic Command Line Shortcuts
+
+- `cd`: Change directory  
+- `ls`: List directory contents  
+- `pwd`: Show current directory  
+- `mkdir`: Create folder  
+- `rm`: Remove file/folder  
+- `cp`: Copy files  
+- `mv`: Move/rename files
+
+These are used daily in system navigation and scripting.
